@@ -2,7 +2,7 @@
 
 This is a tutorial for Git command. We hope it will be helpful for you.
 
-## git提交
+## git pull | push
 
         `$ git init
         `$ touch .gitignore // create git ignore file
