@@ -12,6 +12,9 @@ This is a tutorial for Git command. We hope it will be helpful for you.
         `$ git remote -v       
         `$ git remote add origin ...git // ...git means the URL of the href location, for example: https://github.com/pedro-East/GitTutorial.git
         `$ git remote -v  // will show the url for you.
+        `$ git remote remove origin  // remove the origin git
+        `$ git remote add origin ...git 
+        
                 
         `$ git stash
         `$ git push -u origin master
