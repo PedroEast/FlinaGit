@@ -19,3 +19,8 @@ This is a tutorial for Git command. We hope it will be helpful for you.
         `$ git stash
         `$ git push -u origin master
         `$ git pull --rebase origin master
+        `$ git rm -r --cached 文件/文件夹名称
+
+        `$ git checkout -b 分支名  #新建分支
+        `$ git branch -a
+        `$ git checkout 分支名
